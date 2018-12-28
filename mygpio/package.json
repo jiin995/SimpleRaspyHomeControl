@@ -1,7 +1,7 @@
 {
     "name": "mygpio",
     "version": "1.0.0",
-    "description": "my Gpio for set pin ",
+    "description": "my Gpio for set pin in message payload ",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
