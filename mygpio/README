@@ -1,0 +1,2 @@
+Install myGPIO
+riceve in ingresso un array di due elementi, il primo è il pin e il secondo è il valore dell'uscita
